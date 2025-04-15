@@ -13,4 +13,5 @@ A modern, responsive portfolio website built with HTML, CSS, and JavaScript to s
 - Interactive elements with JavaScript
 - SEO optimized 
 
-
+> ## Preview:
+![Preview.png](https://github.com/madhu27k/my_Portfolio/blob/main/Portfolio-Website/assets/img/screenshot.png)
