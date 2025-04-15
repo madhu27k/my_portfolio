@@ -3,7 +3,7 @@
 
 A modern, responsive portfolio website built with HTML, CSS, and JavaScript to showcase my projects, skills, and experience.
 
-![Portfolio Screenshot](./assets/img/Screenshot(148).png")
+![Portfolio Screenshot](./assets/img/ Screenshot (148).png")
 
 ## Features
 
