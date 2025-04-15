@@ -3,8 +3,6 @@
 
 A modern, responsive portfolio website built with HTML, CSS, and JavaScript to showcase my projects, skills, and experience.
 
-![Portfolio Screenshot](./assets/img/ Screenshot (148).png")
-
 ## Features
 
 - Fully responsive design (mobile, tablet, desktop)
@@ -14,3 +12,6 @@ A modern, responsive portfolio website built with HTML, CSS, and JavaScript to s
 - Contact form with validation
 - Interactive elements with JavaScript
 - SEO optimized 
+
+> ## Preview:
+![Preview.png](https://github.com/madhu27k/my_portfolio/Portfolio-Website/assets/img/Screenshot(148).png)
